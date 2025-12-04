@@ -24,7 +24,7 @@ console.log(typeof undefined) // undefined
 // undefined => value not assigne but varibale declared 
 // Symbol => compoent uniq idetifier using (react)
 
-//non-primative
+// non-primative
 // Object 
 // array 
 
