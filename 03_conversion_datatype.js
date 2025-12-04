@@ -49,3 +49,5 @@ console.log("1" - 2 + 2)
 console.log("1" % 2);
 console.log("1" / 2);
 console.log((2 + "2") * (3 % 4)); // do not used like that code 
+console.log(+true);
+console.log(+"");
