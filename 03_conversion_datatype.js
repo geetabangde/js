@@ -51,3 +51,13 @@ console.log("1" / 2);
 console.log((2 + "2") * (3 % 4)); // do not used like that code 
 console.log(+true);
 console.log(+"");
+
+let num1, num2, num3;
+
+num1 = num2 = num3 = 2+2;
+
+let gameCounter = 100;
+gameCounter ++  // prefix increment
+++gameCounter  //suffix incrememnt 
+
+console.log(gameCounter);
