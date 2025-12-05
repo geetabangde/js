@@ -42,3 +42,4 @@ console.log(NaN == NaN); // comparison operator
 console.log(NaN === NaN); // strict equality operator
 console.log(Number.isNaN(NaN)); // function to check if value is NaN
 console.log(Number.isNaN("Hello")); // false
+
